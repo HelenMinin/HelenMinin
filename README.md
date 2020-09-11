@@ -9,3 +9,4 @@
 ## ⚡️ Linguagem utilizada      
 
 <code><img src="https://user-images.githubusercontent.com/42481661/87326223-d4462b00-c508-11ea-87be-2518ed71f28b.jpg" width="20" height="20" /></code>
+<code><img src="https://user-images.githubusercontent.com/42481661/92960449-078f3280-f444-11ea-92c2-0c531e52a4a3.png" width="20" height="20" /></code>
