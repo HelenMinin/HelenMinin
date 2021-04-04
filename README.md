@@ -1,6 +1,6 @@
 ### aobâ! 👋 
   
-  💼 Quality Assurance na [TOTVS](https://www.linkedin.com/company/totvs/) atuando na automações de teste de API com a ferramenta [Katalon](https://www.katalon.com/) e participando juntamente com o PO no desenvolvimento de HU, compreendendo a necessidade do cliente e acompanhando todo o processo de uma história do inicio ao fim, garantindo a qualidade do produto entregue ao cliente.
+  💼 Quality Assurance na [TOTVS](https://www.linkedin.com/company/totvs/) atuando na automações de teste de API com a ferramenta [Katalon](https://www.katalon.com/) e participando juntamente com o PO no desenvolvimento de US, compreendendo a necessidade do cliente e acompanhando todo o processo de uma história do inicio ao fim, garantindo a qualidade do produto entregue ao cliente.
 
 <p>
   <samp>
