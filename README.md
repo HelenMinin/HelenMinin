@@ -18,5 +18,3 @@
 </div>
 
 <br>
-  
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/9vqfb6m8kr1y5t40ajcusx3ep)
