@@ -14,6 +14,5 @@ Desenvolvedora back-end na [Pagar.me](https://www.pagar.me)
 ### Sobre mim
 - **Estudando :** Golang, Python e Node 
 - **Linguagens :** .NET/C#
-- **Hobbies :** Entusiasta da Sinuca nas horas vagas
-- **Um fato :** Amo gatos
+- **Hobbies :** Automações no geral. Se um robo pode fazer, por que eu tenho? 
 - **Empresa :** Pagar.me 
